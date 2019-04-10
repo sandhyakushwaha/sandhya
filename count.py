@@ -1,6 +1,6 @@
 count = 0
-number = int(input("Enter a number "))
-while (number > 0):
-  number = number//10
+n = int(input())
+while (n > 0):
+  n = n//10
   count = count + 1
-print ("Total number of digits : ",count)
+print (" count ",count)
