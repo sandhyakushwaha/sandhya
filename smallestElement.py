@@ -1,6 +1,6 @@
 data=[]
 list=[]
-n=int(input())
+n=10
 for i in range(1,n+1):
     ele=int(input())
     list.append(ele)
